@@ -15,9 +15,6 @@ __pycache__/
 *.log
 
 # Dados e saídas locais
-5fold/*.pkl
-5fold/*.npy
-results/
 *.csv
 *.xlsx
 UDS.csv
