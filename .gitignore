@@ -22,3 +22,19 @@ UDS.csv
 # IDE e sistema
 .vscode/
 .idea/
+
+# NPY e PKL
+*.npy
+*.pkl
+
+# Dados processados
+processed_data*
+encoded*
+
+# Imagens
+*.png
+*.svg
+
+# Folds
+5fold/
+5fold_PK/
